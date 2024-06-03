@@ -1,8 +1,8 @@
 # Resume-Job-Matcher
 Data Collection: jobs_data_collection.ipynb
 
-Methodology
-The project involves the following steps:
+### Methodology: 
+<ins>The project involves the following steps:</ins>
 
  * Data Preparation: Loading and combining job data, removing duplicates.
  * Text Preprocessing: Preprocessing job descriptions and titles, removing irrelevant words, lemmatization.
